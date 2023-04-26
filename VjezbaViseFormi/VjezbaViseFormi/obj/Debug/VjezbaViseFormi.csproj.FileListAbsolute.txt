@@ -1,0 +1,12 @@
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\VjezbaViseFormi\VjezbaViseFormi\bin\Debug\VjezbaViseFormi.exe.config
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\VjezbaViseFormi\VjezbaViseFormi\bin\Debug\VjezbaViseFormi.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\VjezbaViseFormi\VjezbaViseFormi\bin\Debug\VjezbaViseFormi.pdb
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\VjezbaViseFormi\VjezbaViseFormi\obj\Debug\VjezbaViseFormi.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\VjezbaViseFormi\VjezbaViseFormi\obj\Debug\VjezbaViseFormi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\VjezbaViseFormi\VjezbaViseFormi\obj\Debug\VjezbaViseFormi.Studenti.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\VjezbaViseFormi\VjezbaViseFormi\obj\Debug\VjezbaViseFormi.FormunosNovogStudenta.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\VjezbaViseFormi\VjezbaViseFormi\obj\Debug\VjezbaViseFormi.Properties.Resources.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\VjezbaViseFormi\VjezbaViseFormi\obj\Debug\VjezbaViseFormi.csproj.GenerateResource.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\VjezbaViseFormi\VjezbaViseFormi\obj\Debug\VjezbaViseFormi.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\VjezbaViseFormi\VjezbaViseFormi\obj\Debug\VjezbaViseFormi.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\VjezbaViseFormi\VjezbaViseFormi\obj\Debug\VjezbaViseFormi.pdb
